@@ -1,0 +1,15 @@
+C:\Users\Biscoitinho\Documents\Projects\design-patterns-poc\design-patterns-poc\bin\Debug\net6.0\abstract-factory.exe
+C:\Users\Biscoitinho\Documents\Projects\design-patterns-poc\design-patterns-poc\bin\Debug\net6.0\abstract-factory.deps.json
+C:\Users\Biscoitinho\Documents\Projects\design-patterns-poc\design-patterns-poc\bin\Debug\net6.0\abstract-factory.runtimeconfig.json
+C:\Users\Biscoitinho\Documents\Projects\design-patterns-poc\design-patterns-poc\bin\Debug\net6.0\abstract-factory.dll
+C:\Users\Biscoitinho\Documents\Projects\design-patterns-poc\design-patterns-poc\bin\Debug\net6.0\abstract-factory.pdb
+C:\Users\Biscoitinho\Documents\Projects\design-patterns-poc\design-patterns-poc\obj\Debug\net6.0\abstract-factory.csproj.AssemblyReference.cache
+C:\Users\Biscoitinho\Documents\Projects\design-patterns-poc\design-patterns-poc\obj\Debug\net6.0\abstract-factory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Biscoitinho\Documents\Projects\design-patterns-poc\design-patterns-poc\obj\Debug\net6.0\abstract-factory.AssemblyInfoInputs.cache
+C:\Users\Biscoitinho\Documents\Projects\design-patterns-poc\design-patterns-poc\obj\Debug\net6.0\abstract-factory.AssemblyInfo.cs
+C:\Users\Biscoitinho\Documents\Projects\design-patterns-poc\design-patterns-poc\obj\Debug\net6.0\abstract-factory.csproj.CoreCompileInputs.cache
+C:\Users\Biscoitinho\Documents\Projects\design-patterns-poc\design-patterns-poc\obj\Debug\net6.0\abstract-factory.dll
+C:\Users\Biscoitinho\Documents\Projects\design-patterns-poc\design-patterns-poc\obj\Debug\net6.0\refint\abstract-factory.dll
+C:\Users\Biscoitinho\Documents\Projects\design-patterns-poc\design-patterns-poc\obj\Debug\net6.0\abstract-factory.pdb
+C:\Users\Biscoitinho\Documents\Projects\design-patterns-poc\design-patterns-poc\obj\Debug\net6.0\abstract-factory.genruntimeconfig.cache
+C:\Users\Biscoitinho\Documents\Projects\design-patterns-poc\design-patterns-poc\obj\Debug\net6.0\ref\abstract-factory.dll
